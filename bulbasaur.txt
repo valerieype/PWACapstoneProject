@@ -1,0 +1,22 @@
+<div style="background-image: url('bulbasaur.jpg'); background-repeat: no-repeat; background-attachment: fixed;background-size: cover; margin-top:65px; padding: 10px"> 
+  <div style="padding:30px; font-size: 20px;">
+    <text style="font-size: 40px; font-weight:bold;">BULBASAUR</text>
+    <p>
+      Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker patches. It has red eyes with white pupils, pointed, ear-like structures on top of its head, and a short, blunt snout with a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.
+    </p>
+
+    <text style="font-size: 25px; font-weight:bold;">Design and Concept</text>
+    <p>
+      Bulbasaur was designed by Atsuko Nishida, one of the character designers for Pocket Monsters Red and Blue, who based its design on Venusaur, the fully evoled form of Bulbasaur. The species first appeared as one of three starter Pokémon the player could choose from at the beginning of the initial Game Boy games, Pokémon Red and Blue, released in Japan in 1996. Its Japanese name, Fushigidane (fu-SHI-gi-DON-e), is a combination of the Japanese words for mystery or miracle (fushigi) and seed (tane). In translating the game for English speaking audiences, Nintendo gave the Pokémon "cleverly descriptive names" related to their appearance or features as a means to make the characters more relatable to American children; thus Bulbasaur, relating to both its dinosaur appearance (saur) and the large garlic-shaped bulb on its back (bulb or bulba). The idea to feature Bulbasaur and the other Red and Blue starters in a significant role in Pokémon X and Y came about a year and a half into the development of the games. The Mega Evolutions for the three Pokémon's final forms were created, and the designers decided that they should give players an opportunity to receive one of these Pokémon from Professor Sycamore, the games professor, to see their Mega Evolved form.
+    </p>
+    <p>
+      Despite their English names, Ken Sugimori confirmed that the design of Bulbasaur and its evolutions is based on onions and frogs, albeit identified more with a smaller Dicynodont. In the Pokémon franchise, Bulbasaur are small, squat amphibian and plant Pokémon that move on all four legs, and have light blue-green bodies with darker blue-green spots. As a Bulbasaur undergoes evolution into Ivysaur and then later into Venusaur, the bulb on its back blossoms into a large flower. The seed on a Bulbasaur's back is planted at birth and then sprouts and grows larger as the Bulbasaur grows. The bulb absorbs sunlight which allows it grow. For this reason, Bulbasaur enjoy soaking up the sun's rays, and can survive for days without eating because the bulb stores energy. The distinctive differences of Bulbasaur from other Pokémon such as Diglett are well understood by children and so motivate their play and trading of the creature.
+    </p>
+    <p>
+      Bulbasaur is featured in an eclectic range of different Pokémon manga series. In Pokémon: Pikachu Shocks Back, Electric Pikachu Boogaloo, and Surf’s Up, Pikachu!, which loosely parallel the storyline of the anime, Pikachu is separated from Ash temporarily, and travels with a Bulbasaur to a secret Pokémon village in the mountains. Later, Ash finds Pikachu and catches the Bulbasaur. Bulbasaur accompanies Ash throughout his journeys in the Orange Islands, and eventually fights in the final showdown with Drake, the Orange Crew Supreme Gym Leader. In Magical Pokémon Journey, a character named Pistachio has a female Bulbasaur (nicknamed Danerina in the Japanese version), who is infatuated by him.
+
+      In Pokémon Adventures, a manga based on the plot of the Pokémon Red and Blue games, the character Red receives a Bulbasaur from Professor Oak, which he nicknames Saur. In Chapter 15, "Wartortle Wars", it evolves into an Ivysaur after battling a wild Mankey.
+    </p>
+  </div>
+
+</div>

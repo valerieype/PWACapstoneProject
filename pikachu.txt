@@ -1,0 +1,22 @@
+<div style="background-image: url('pikachu.jpg'); background-repeat: no-repeat; background-attachment: fixed;background-size: cover; margin-top:65px; padding: 10px"> 
+  <div style="padding:30px; font-size: 20px;">
+    <text style="font-size: 40px; font-weight:bold;">PIKACHU</text>
+    <p>
+      Pikachu is a short, chubby rodent Pokémon. It is covered in yellow fur with two horizontal brown stripes on its back. It has a small mouth, long, pointed ears with black tips, and brown eyes. Each cheek is a red circle that contains a pouch for electricity storage. It has short forearms with five fingers on each paw, and its feet each have three toes. At the base of its lightning bolt-shaped tail is a patch of brown fur. A female will have a V-shaped notch at the end of its tail, which looks like the top of a heart. It is classified as a quadruped, but it has been known to stand and walk on its hind legs.
+    </p>
+
+    <text style="font-size: 25px; font-weight:bold;">Design and Concept</text>
+    <p>
+      Developed by Game Freak and published by Nintendo, the Pokémon series began in Japan in 1996, and features several species of creatures called "Pokémon" that players, called "trainers", are encouraged to capture, train, and use to battle other players' Pokémon or interact with the game's world. Pikachu was one of several different Pokémon designs conceived by Game Freak's character development team. Artist Atsuko Nishida is credited as the main person behind Pikachu's design, which was later finalized by artist Ken Sugimori. According to series producer Satoshi Tajiri, the name is derived from a combination of two Japanese sounds: pika, a sound an electric spark makes, and chu, a sound a mouse makes. Despite its name's origins, however, Nishida based Pikachu's generation 1 design, especially its cheeks, on squirrels. Developer Junichi Masuda noted Pikachu's name as one of the most difficult to create, due to an effort to make it appealing to both Japanese and American audiences.
+    </p>
+
+    <p>
+      Standing 40 centimetres (1 ft 4 in) tall, Pikachu were the first "Electric-type" Pokémon created, their design intended to revolve around the concept of electricity. They appear as Pika-like creatures that have short, yellow fur with brown markings covering their backs and parts of their lightning bolt-shaped tails. They have black-tipped, pointed ears and red circular pouches on their cheeks, which can spark with electricity. In Pokémon Diamond and Pearl, gender differences were introduced; a female Pikachu now has an indent at the end of its tail, giving it a heart-shaped appearance. They attack primarily by projecting electricity from their bodies at their targets. Within the context of the franchise, a Pikachu can transform, or "evolve," into a Raichu when exposed to a "Thunderstone." In later titles an evolutionary predecessor was introduced named "Pichu", which evolves into a Pikachu after establishing a close friendship with its trainer.
+    </p>
+
+    <p>
+      Initially both Pikachu and the Pokémon Clefairy were chosen to be lead characters for the franchise merchandising, with the latter as the primary mascot to make the early comic book series more "engaging". However, with the production of the animated series, Pikachu was chosen as the primary mascot, in an attempt to appeal to female viewers and their mothers, and because it was believed that Pikachu presented the image of a recognizable intimate pet to children. Its color was also a deciding factor, as yellow is a primary color and easier for children to recognize from a distance, and with consideration to the fact that the only other competing yellow mascot at the time was Winnie-the-Pooh. Though Tajiri acknowledged that the character was relatively popular with both boys and girls, the idea of Pikachu as the mascot was not his own, with the company responsible for the production of the animated series OLM, Inc. giving the suggestion to utilize Pikachu’s potential to Game Freak, and stated he felt the human aspect of the series was overlooked by Japanese children who embraced Pikachu by itself more readily. Pikachu was originally going to have a second evolution called Gorochu, which was intended to be the evolved form of Raichu.
+    </p>
+  </div>
+
+</div>
